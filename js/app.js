@@ -95,3 +95,47 @@ const dayEl = document.querySelector(".day");
 
 // xato ishlay olmadim boshqa
 // )
+
+
+// 8#
+// {
+//     function booleanToString(b) {
+//         return b.toString()
+//     }
+// }
+
+
+// N9
+
+// {
+//     String.prototype.toJadenCase = function () {
+//         return this.split(" ").map(function (word) {
+//             return word.charAt(0).toUpperCase() + word.slice(1);
+//         }).join(" ");
+//     }
+// }
+
+
+
+
+// 10#
+
+// {
+//     function reverse(string) {
+//         return string.split(' ').reverse().join(' ');
+//     }
+//     console.log(reverse("Hello World"));
+
+// }
+
+
+// 11#
+
+// {
+//     function remove(str) {
+//         if (str.endsWith('!')) {
+//             return str.slice(0, -1)
+//         }
+//         return str
+//     }
+// }
